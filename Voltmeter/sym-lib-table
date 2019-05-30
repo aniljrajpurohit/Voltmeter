@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Voltmeter-rescue)(type Legacy)(uri ${KIPRJMOD}/Voltmeter-rescue.lib)(options "")(descr ""))
+)
